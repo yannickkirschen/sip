@@ -1,0 +1,17 @@
+{
+  "cSpell.language": "en,de",
+  "cSpell.words": [
+    "commitlint",
+    "github",
+    "gomod",
+    "NOSONAR",
+    "struct",
+    "yannickkirschen"
+  ],
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.rulers": [
+    80,
+    120
+  ]
+}
